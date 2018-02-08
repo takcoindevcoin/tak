@@ -1,0 +1,9 @@
+Building TAKCOIN
+
+See doc/readme-qt.rst for instructions on building TAKCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TAKCOIN.
+
+See doc/build-*.txt for instructions on building takcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TAKCOIN.
